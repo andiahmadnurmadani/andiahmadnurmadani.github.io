@@ -82,6 +82,32 @@ let allMusic = [
     img: "music-12",
     src: "music-12"
   },
+  {
+    name: "SNAP",
+    artist: "Rosa Linn",
+    img: "music-13",
+    src: "music-13"
+  },
+  {
+    name: "20 MIN",
+    artist: "Lil Uzi Vert",
+    img: "music-14",
+    src: "music-14"
+  },
+  {
+    name: "Perfect Stranger",
+    artist: "Jonas Blue",
+    img: "music-15",
+    src: "music-15"
+  },
+  {
+    name: "Until I Found You",
+    artist: "Stephen Sanchez",
+    img: "music-16",
+    src: "music-16"
+  },
+
+
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
