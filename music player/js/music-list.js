@@ -65,12 +65,6 @@ let allMusic = [
     src: "music-9"
   },
   {
-    name: "Prom Queen",
-    artist: "Beach Bunny",
-    img: "music-10",
-    src: "music-10"
-  },
-  {
     name: "Cause I Need",
     artist: "Justin Beiber",
     img: "music-11",
