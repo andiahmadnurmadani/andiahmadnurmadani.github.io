@@ -94,12 +94,7 @@ let allMusic = [
     img: "music-15",
     src: "music-15"
   },
-  {
-    name: "Until I Found You",
-    artist: "Stephen Sanchez",
-    img: "music-16",
-    src: "music-16"
-  },
+  
 
 
   // like this paste it and remember to give comma after ending of this bracket }
