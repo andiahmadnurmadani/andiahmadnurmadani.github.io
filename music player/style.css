@@ -31,7 +31,7 @@ body{
   overflow: hidden;
   position: relative;
   border-radius: 15px;
-  background: var(--white);
+  background:black;
   box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 .wrapper i{
@@ -45,7 +45,7 @@ body{
 }
 .top-bar i{
   font-size: 30px;
-  color: var(--lightblack);
+  color: white;
 }
 .top-bar i:first-child{
   margin-left: -7px;
@@ -53,7 +53,7 @@ body{
 .top-bar span{
   font-size: 18px;
   margin-left: -3px;
-  color: var(--lightblack);
+  color:white;
 }
 .img-area{
   width: 100%;
@@ -73,7 +73,7 @@ body{
   margin: 30px 0;
 }
 .song-details p{
-  color: var(--lightblack);
+  color:white;
 }
 .song-details .name{
   font-size: 21px;
@@ -95,7 +95,7 @@ body{
   width: 0%;
   position: relative;
   border-radius: inherit;
-  background: linear-gradient(90deg, var(--pink) 0%, var(--violet) 100%);
+  background: crimson;
 }
 .progress-bar::before{
   content: "";
@@ -121,7 +121,7 @@ body{
 }
 .song-timer span{
   font-size: 13px;
-  color: var(--lightblack);
+  color: white;
 }
 .controls{
   margin: 40px 0 5px 0;
@@ -129,7 +129,7 @@ body{
 .controls i{
   font-size: 28px;
   user-select: none;
-  background: grey;
+  background: white;
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -152,8 +152,8 @@ body{
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  background: linear-gradient(var(--white) 0%, var(--darkwhite) 100%);
-  box-shadow: 0px 0px 5px var(--pink);
+  background: crimson;
+  box-shadow: black;
 }
 .play-pause::before{
   position: absolute;
@@ -161,7 +161,7 @@ body{
   height: 43px;
   width: 43px;
   border-radius: inherit;
-  background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
+  background: black;
 }
 .play-pause i{
   height: 43px;
@@ -241,5 +241,5 @@ ul li .audio-duration{
 }
 ul li.playing{
   pointer-events: none;
-  color: var(--violet);
+  color: crimson;
 }

@@ -11,88 +11,53 @@
 
 let allMusic = [
   {
-    name: "Hurt So Good",
-    artist: "Astrid S",
-    img: "music-1",
-    src: "music-1"
+    name: "The Hills",
+    artist: "The Weeknd",
+    img: "music1",
+    src: "music1"
   },
   {
-    name: "Swim",
-    artist: "Case Atlantic",
-    img: "music-2",
-    src: "music-2"
+    name: "I wanna be yours",
+    artist: "Arctic Monkey",
+    img: "music-i",
+    src: "music2"
   },
   {
-    name: "As it was",
-    artist: "Harry Styles",
-    img: "music-3",
-    src: "music-3"
+    name: "under the influence x i was never there",
+    artist: "Unknow",
+    img: "music-i",
+    src: "music3"
   },
   {
-    name: "Silence",
-    artist: "Marshmello ft Khalid",
-    img: "music-4",
-    src: "music-4"
+    name: "gypsy woman",
+    artist: "playboi carti",
+    img: "images",
+    src: "music4"
   },
   {
-    name: "Night Changes",
-    artist: "One Driection",
-    img: "music-5",
-    src: "music-5"
+    name: "Lights",
+    artist: "Ellie Goulding",
+    img: "images",
+    src: "music5"
   },
   {
-    name: "Unconditionally X One Last Time",
-    artist: "Katty Peri",
-    img: "music-6",
-    src: "music-6"
+    name: "Seafret Speed",
+    artist: "Atlantis",
+    img: "images",
+    src: "music6"
   },
-  {
-    name: "Candy",
-    artist: "Robby William",
-    img: "music-7",
-    src: "music-7"
-  },
-  {
-    name: "Heat Waves",
-    artist: "Glass Animal",
-    img: "music-8",
-    src: "music-8"
-  },
-  {
-    name: "Walking In The Wind",
-    artist: "One Driection",
-    img: "music-9",
-    src: "music-9"
-  },
+  
   {
     name: "Cause I Need",
     artist: "Justin Beiber",
-    img: "music-11",
-    src: "music-11"
-  },
-  {
-    name: "Comethru",
-    artist: "Jeremy Zucker",
-    img: "music-12",
-    src: "music-12"
+    img: "images",
+    src: "music7"
   },
   {
     name: "SNAP",
     artist: "Rosa Linn",
-    img: "music-13",
-    src: "music-13"
-  },
-  {
-    name: "20 MIN",
-    artist: "Lil Uzi Vert",
-    img: "music-14",
-    src: "music-14"
-  },
-  {
-    name: "Perfect Stranger",
-    artist: "Jonas Blue",
-    img: "music-15",
-    src: "music-15"
+    img: "music8",
+    src: "music8"
   },
   
 
