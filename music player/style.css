@@ -23,16 +23,12 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: black;
+  background: grey;
 }
 .wrapper{
-  width: 380px;
-  padding: 25px 30px;
   overflow: hidden;
   position: relative;
-  border-radius: 15px;
-  background:black;
-  box-shadow: 0px 6px 15px var(--lightbshadow);
+  background:grey;
 }
 .wrapper i{
   cursor: pointer;
@@ -95,7 +91,7 @@ body{
   width: 0%;
   position: relative;
   border-radius: inherit;
-  background: crimson;
+  background: black;
 }
 .progress-bar::before{
   content: "";
@@ -152,7 +148,7 @@ body{
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  background: crimson;
+  background: white;
   box-shadow: black;
 }
 .play-pause::before{
@@ -161,7 +157,7 @@ body{
   height: 43px;
   width: 43px;
   border-radius: inherit;
-  background: black;
+  background: white;
 }
 .play-pause i{
   height: 43px;
@@ -171,7 +167,7 @@ body{
   background: inherit;
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: black;
   position: absolute;
 }
 
@@ -241,5 +237,5 @@ ul li .audio-duration{
 }
 ul li.playing{
   pointer-events: none;
-  color: crimson;
+  color: grey;
 }
