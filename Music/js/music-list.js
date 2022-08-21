@@ -11,7 +11,7 @@
 
 let allMusic = [
   {
-    name: "The Hills",
+    name: "The Hills X I Was Never There",
     artist: "The Weeknd",
     img: "music1",
     src: "music1"
@@ -19,38 +19,38 @@ let allMusic = [
   {
     name: "I wanna be yours",
     artist: "Arctic Monkey",
-    img: "music-i",
+    img: "music2",
     src: "music2"
   },
   {
-    name: "under the influence x i was never there",
+    name: "Under The Influence X I Was Never There",
     artist: "Unknow",
-    img: "music-i",
+    img: "music3",
     src: "music3"
   },
   {
     name: "gypsy woman",
     artist: "playboi carti",
-    img: "images",
+    img: "music4",
     src: "music4"
   },
   {
-    name: "Lights",
-    artist: "Ellie Goulding",
-    img: "images",
+    name: "years & years edit",
+    artist: "breathe ",
+    img: "music5",
     src: "music5"
   },
   {
-    name: "Seafret Speed",
+    name: "Seafret",
     artist: "Atlantis",
-    img: "images",
+    img: "music6",
     src: "music6"
   },
   
   {
-    name: "Cause I Need",
+    name: "Cause I Need Beauty And The Beast",
     artist: "Justin Beiber",
-    img: "images",
+    img: "music7",
     src: "music7"
   },
   {
@@ -59,7 +59,24 @@ let allMusic = [
     img: "music8",
     src: "music8"
   },
-  
+    {
+    name: "Doin' Time",
+    artist: "Lana Del Rey",
+    img: "music9",
+    src: "music9"
+  },
+   {
+    name: "years & years",
+    artist: "breathe",
+    img: "music10",
+    src: "music10"
+  },
+  {
+    name: "Lights",
+    artist: "Ellie Goulding",
+    img: "music11",
+    src: "music11"
+  },
 
 
   // like this paste it and remember to give comma after ending of this bracket }
