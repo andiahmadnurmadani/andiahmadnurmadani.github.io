@@ -29,16 +29,10 @@ let allMusic = [
     src: "music3"
   },
   {
-    name: "gypsy woman",
-    artist: "playboi carti",
+    name: "playboi carti",
+    artist: "gypsy woman",
     img: "music4",
     src: "music4"
-  },
-  {
-    name: "years & years edit",
-    artist: "breathe ",
-    img: "music5",
-    src: "music5"
   },
   {
     name: "Seafret",
@@ -77,6 +71,25 @@ let allMusic = [
     img: "music11",
     src: "music11"
   },
+   {
+    name: "I Wanna Love You",
+    artist: "Akon",
+    img: "music12",
+    src: "music12"
+  },
+   {
+    name: "Summertime Sadness",
+    artist: "Lana Del Rey",
+    img: "music13",
+    src: "music13"
+  },
+   {
+    name: "sex drugs etc",
+    artist: "beach weather",
+    img: "music14",
+    src: "music14"
+  },
+
 
 
   // like this paste it and remember to give comma after ending of this bracket }
