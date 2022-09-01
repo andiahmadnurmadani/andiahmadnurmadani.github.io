@@ -23,7 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: grey;
+  background: rgb(32, 23, 53);
 }
 .wrapper{
   width: 380px;
@@ -31,7 +31,7 @@ body{
   overflow: hidden;
   position: relative;
   border-radius: 15px;
-  background: grey;
+  background: rgb(32, 23, 53);
   box-shadow: 0px 6px 15px grey;
 }
 .wrapper i{
