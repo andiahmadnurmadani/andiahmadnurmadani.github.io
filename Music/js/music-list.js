@@ -16,7 +16,7 @@ let allMusic = [
     img: "music1",
     src: "music1"
   },
-   {
+  {
     name: "I Wanna Love You",
     artist: "Akon",
     img: "music2",
@@ -33,6 +33,18 @@ let allMusic = [
     artist: "Soegi Bornean",
     img: "music4",
     src: "music4"
+  },
+  {
+    name: "Strong",
+    artist: "One Direction",
+    img: "music5",
+    src: "music5"
+  },
+  {
+    name: "Tek It",
+    artist: "Cafuné",
+    img: "music6",
+    src: "music6"
   },
 
 
