@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Negara Terbesar Di Dunia",
+    answer: "Rusia",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Amerika Serikat",
+      "India",
+      "China",
+      "Rusia"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Kapan perang dunia 1 dimulai",
+    answer: "1914",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "1910",
+      "1913",
+      "1914",
+      "1918"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Kota yang dijuluki kota pelajar",
+    answer: "Yogyakarta",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Jakarta",
+      "Surabaya",
+      "Yogyakarta",
+      "Indramayu"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Pemilu di indonesia pertama kali di adakan pada tahun",
+    answer: "1955",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "1945",
+      "1955",
+      "1960",
+      "1965"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Ibu kota amerika serikat",
+    answer: "Washington D.C",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "New york",
+      "Chicago",
+      "Washington D.C",
+      "Los angeles"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
